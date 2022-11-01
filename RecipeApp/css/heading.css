@@ -1,0 +1,9 @@
+@font-face {
+    font-family: baguette;
+    src: url("./fonts/Baguette/Baguette.tff");
+} 
+
+baguette {
+    font-size: 70px;
+    font-family: baguette;
+}
